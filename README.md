@@ -44,10 +44,15 @@ Using the Kaggle Fraud Data Set looked at a number of ways to evaluate and optim
 Given a data set for blight violations in Detroit we were allowed to use any approach to predict payment of fines on an undisclosed test set. I used feature selection and GridSearch on a random forest to produce a ROC AUC score of 0.79
 
 ### Course 4: Applied Text Mining in Python
+This course began with regular expressions then moved on to NLP and the nltk library covering text analysis, word similarity, topic modelling and POS tagging, among other things. Finally machine learning was applied to NLP.
 * [Assignment W1:](./C4_W1_Assignment.ipynb)
+Using messy medical records data the task was to extract all possible date formats from the rows using regex while avoiding any non-dates.   
 * [Assignment W2:](./C4_W2_Assignment.ipynb)
+In part 1 the text Moby Dick was analysed. Word counts, unique tokens, most common words, frequency of occurence and average sentence length were some of the features extracted. In part 2 two distance metrics were used to create a spelling recommneder.
 * [Assignment W3:](./C4_W3_Assignment.ipynb)
+In part 1 wordnet was used to converst text into synsets then path similarity was use to compare different news headlines and find the closest matches between sources. In part 2 topic modelling was applied to newsgroup data to identify the most common subjects in the newsgroup. 
 * [Assignment W4:](./C4_W4_Assignment.ipynb)
+A classic machine learning problem - spam classification. Using 
 
 ### Course 5: Applied Social Network Analysis in Python
 * [Assignment W1:](./C5_W1_Assignment.ipynb)
