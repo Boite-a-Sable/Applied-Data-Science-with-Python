@@ -50,9 +50,9 @@ Using messy medical records data the task was to extract all possible date forma
 * [Assignment W2:](./C4_W2_Assignment.ipynb)
 In part 1 the text Moby Dick was analysed. Word counts, unique tokens, most common words, frequency of occurence and average sentence length were some of the features extracted. In part 2 two distance metrics were used to create a spelling recommneder.
 * [Assignment W3:](./C4_W3_Assignment.ipynb)
-In part 1 wordnet was used to converst text into synsets then path similarity was use to compare different news headlines and find the closest matches between sources. In part 2 topic modelling was applied to newsgroup data to identify the most common subjects in the newsgroup. 
+A classic machine learning problem - spam classification. Using a number of ML models (Naive Bayes, SVC and Logistic Regression) I classified if a text message was spam or not.
 * [Assignment W4:](./C4_W4_Assignment.ipynb)
-A classic machine learning problem - spam classification. Using 
+In part 1 wordnet was used to converst text into synsets then path similarity was use to compare different news headlines and find the closest matches between sources. In part 2 topic modelling was applied to newsgroup data to identify the most common subjects in the newsgroup. 
 
 ### Course 5: Applied Social Network Analysis in Python
 * [Assignment W1:](./C5_W1_Assignment.ipynb)
